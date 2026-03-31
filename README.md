@@ -623,7 +623,7 @@
     },
 	"HyperCat": {
         "Type": "Support",
-        "Image": "rbxassetid://17851638702",
+        "Image": "rbxassetid://71828294220069",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
